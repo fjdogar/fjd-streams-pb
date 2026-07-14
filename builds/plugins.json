@@ -1,23 +1,40 @@
 [
     {
-        "fileHash": "sha256-875ee02591b0019a895c2917d819f0b803dd57c075087025b1102c2c39e87f2c",
+        "fileHash": "sha256-44c4fa1170c6d619c0a47f936f867287c11517675851d75601faa72ec0e5c29d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 16364,
+        "fileSize": 10261,
         "status": 1,
         "language": "en",
         "authors": [
             "fjdogar"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
+            "NSFW"
         ],
         "version": 1,
-        "internalName": "FzTvSeries",
-        "description": "Cloudstream plugin for FzTvSeries (fztvseries.ng) - streaming TV series, cartoons, and movies.",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FzTvSeries.cs3",
-        "name": "FzTvSeries"
+        "internalName": "BijuriyaMaza",
+        "description": "Cloudstream plugin for BijuriyaMaza (hitmaal.io) - streaming hot adult web series.",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaza.cs3",
+        "name": "BijuriyaMaza"
+    },
+    {
+        "fileHash": "sha256-9ea77d30612f0c38a07bcaf3dc3d5732e280e7ca173cb0dfe43df390f9a4d68e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 10245,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "NeetoMaza",
+        "description": "Cloudstream plugin for NeetoMaza (xxmaza.com) - streaming hot adult web series.",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/NeetoMaza.cs3",
+        "name": "NeetoMaza"
     }
 ]
