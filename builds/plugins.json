@@ -1,30 +1,9 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
-        "fileHash": "sha256-de708a8b731c546799cd3eef510c267ba2e94d33150243949d73e2446ab988ed",
+        "fileHash": "sha256-4472e94fefc7af05ee2877019bec5f35a4e863def3994fc3d8fcde141d251476",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 89907,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 35,
-        "internalName": "FulchMulch",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
-        "name": "FulchMulch"
-    },
-    {
-        "fileHash": "sha256-41f26bc7ac2608e75e10105f3419f16372cd65a8b8b6db012356ff8caa8612c4",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 14652,
+        "fileSize": 15172,
         "status": 1,
         "language": "en",
         "authors": [
