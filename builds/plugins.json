@@ -1,42 +1,44 @@
 [
     {
-        "fileHash": "sha256-b7597a6355358a925f90642cd9c4e6ae524ff1a993d0d5b01be2cb73c816c8cd",
+        "iconUrl": "https://hitmaal.io/wp-content/uploads/2025/10/cropped-HitMaal-icon-192x192.png",
+        "fileHash": "sha256-ec74fa1e012c56bddeb2f0b90b0f5961dec1d02ebfc06b619fa4eb98702ac0c2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 16405,
+        "fileSize": 19157,
         "status": 1,
         "language": "en",
         "authors": [
             "fjdogar"
         ],
         "tvTypes": [
-            "Movies"
+            "Movie",
+            "TvSeries"
         ],
         "version": 1,
         "internalName": "BijuriyaMaza",
         "description": "Cloudstream plugin for BijuriyaMaza (hitmaal.io) - streaming hot adult web series.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaza.cs3",
-        "name": "BijuriyaMaza".
-        "iconUrl" : "https://i.ibb.co/nMdxZgkR/8-CM3-5q-ARZYELDWg6-Erqfg-NYpo-Sdh-Yw-HRB5-CMhf-Vgg-Ygn-PMHCVYWQf-EEJMt9gwd6-EFP5t-LYgd-LAm-Zerm-KCX.png"
+        "name": "BijuriyaMaza"
     },
     {
-        "fileHash": "sha256-c5f0cd012a6a17b8b64ec16d13210d497fe120b47cfd6414db5ae39a93d55349",
+        "iconUrl": "https://xxmaza.com/wp-content/uploads/2025/08/cropped-XMaza.webp",
+        "fileHash": "sha256-102c6fc263d2ec0db0282a069eb2eaa8657839a9a3754374eafba82e2dbeaa7d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 16374,
+        "fileSize": 19096,
         "status": 1,
         "language": "en",
         "authors": [
             "fjdogar"
         ],
         "tvTypes": [
-            "Movies"
+            "Movie",
+            "TvSeries"
         ],
         "version": 1,
         "internalName": "NeetoMaza",
         "description": "Cloudstream plugin for NeetoMaza (xxmaza.com) - streaming hot adult web series.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/NeetoMaza.cs3",
-        "name": "NeetoMaza",
-        "iconUrl" : "https://i.ibb.co/nMdxZgkR/8-CM3-5q-ARZYELDWg6-Erqfg-NYpo-Sdh-Yw-HRB5-CMhf-Vgg-Ygn-PMHCVYWQf-EEJMt9gwd6-EFP5t-LYgd-LAm-Zerm-KCX.png"
+        "name": "NeetoMaza"
     }
 ]
