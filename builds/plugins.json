@@ -10,6 +10,8 @@
             "fjdogar"
         ],
         "tvTypes": [
+            "Movie",
+            "TvSeries",
             "NSFW"
         ],
         "version": 1,
@@ -29,6 +31,8 @@
             "fjdogar"
         ],
         "tvTypes": [
+            "Movie",
+            "TvSeries",
             "NSFW"
         ],
         "version": 1,
