@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://kimoitv.co/kimoiTV.png",
-        "fileHash": "sha256-ba4db745851fa7ac3bfdcbc155f456a40801e32e9e2d857f28dc0c0758bdba42",
+        "fileHash": "sha256-687a05ba976a6b5c8a31a0a26d99ba01ab587b49d9d84eb481bb3942e6f294d4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 40717,
+        "fileSize": 40830,
         "status": 1,
         "language": "en",
         "authors": [
@@ -37,7 +37,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 28,
+        "version": 29,
         "internalName": "KimoiTVPlugin",
         "description": "Cloudstream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
