@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/logo.png",
+        "fileHash": "sha256-de708a8b731c546799cd3eef510c267ba2e94d33150243949d73e2446ab988ed",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 89907,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 35,
+        "internalName": "FulchMulch",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
+        "name": "FulchMulch"
+    },
+    {
+        "iconUrl": "https://kimoitv.co/kimoiTV.png",
+        "fileHash": "sha256-ba4db745851fa7ac3bfdcbc155f456a40801e32e9e2d857f28dc0c0758bdba42",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 40717,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 28,
+        "internalName": "KimoiTVPlugin",
+        "description": "Cloudstream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
+        "name": "KimoiTVPlugin"
+    }
+]
