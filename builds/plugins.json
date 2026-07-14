@@ -18,7 +18,8 @@
         "internalName": "BijuriyaMaza",
         "description": "Cloudstream plugin for BijuriyaMaza (hitmaal.io) - streaming hot adult web series.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaza.cs3",
-        "name": "BijuriyaMaza"
+        "name": "BijuriyaMaza",
+        "iconUrl": null
     },
     {
         "fileHash": "sha256-9ea77d30612f0c38a07bcaf3dc3d5732e280e7ca173cb0dfe43df390f9a4d68e",
@@ -39,6 +40,7 @@
         "internalName": "NeetoMaza",
         "description": "Cloudstream plugin for NeetoMaza (xxmaza.com) - streaming hot adult web series.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/NeetoMaza.cs3",
-        "name": "NeetoMaza"
+        "name": "NeetoMaza",
+        "iconUrl": null
     }
 ]
