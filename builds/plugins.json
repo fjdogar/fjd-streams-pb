@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://hitmaal.io/wp-content/uploads/2025/10/cropped-HitMaal-icon-192x192.png",
-        "fileHash": "sha256-7659b697fc400c079e547a3e7dae28b640b483f00868c64243b41d6a2e187d71",
+        "fileHash": "sha256-0dd9024fde7ba2334dbae664a1a115961b2141b79815d37fd03886677a4fc4d2",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 19270,
+        "fileSize": 20566,
         "status": 1,
         "language": "en",
         "authors": [
@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://xxmaza.com/wp-content/uploads/2025/08/cropped-XMaza.webp",
-        "fileHash": "sha256-ad6bee06196e033c26511872f7773dd70af2794ea9bc3e0882466303bb12303f",
+        "fileHash": "sha256-feb86149fac4fbcb95b2fa0a61e29f0061bddb314ebb866541412b0410cb2c7e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 19230,
+        "fileSize": 20545,
         "status": 1,
         "language": "en",
         "authors": [
