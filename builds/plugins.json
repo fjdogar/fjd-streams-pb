@@ -23,28 +23,7 @@
         "name": "KimoiTVPlugin"
     },
     {
-        "iconUrl": "",
-        "fileHash": "sha256-ea040e27851bf5c0f042ea457ccccc5e3cf956bae3f6be1092f5271ceb53cc3a",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 13400,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "MobileFlix",
-        "description": "FJD-Stream plugin for MobileFlix (tvseries.in) - streaming TV series, cartoons, and anime in mobile format.",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/MobileFlix.cs3",
-        "name": "MobileFlix"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/female_profile.jpg",
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/yaowza_icon.jpg",
         "fileHash": "sha256-b655095fc00f3728091166df3eac9fe6e8bec336dd1496566c75384236568053",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
@@ -66,7 +45,7 @@
         "name": "YaowzaPlugin"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/refs/heads/main/FulchMulch/icon.jpg",
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
         "fileHash": "sha256-de708a8b731c546799cd3eef510c267ba2e94d33150243949d73e2446ab988ed",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
