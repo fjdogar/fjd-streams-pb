@@ -44,11 +44,11 @@
         "name": "MobileFlix"
     },
     {
-        "iconUrl": "https://xxmaza.com/wp-content/uploads/2025/08/cropped-XMaza.webp",
-        "fileHash": "sha256-eeaa329875af2b29e1a4bcee32c9584f9d9049bfdcb56932cac56bf659734180",
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/female_profile.jpg",
+        "fileHash": "sha256-b655095fc00f3728091166df3eac9fe6e8bec336dd1496566c75384236568053",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 23002,
+        "fileSize": 24726,
         "status": 1,
         "language": "en",
         "authors": [
@@ -56,13 +56,14 @@
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "NSFW"
         ],
         "version": 1,
-        "internalName": "NeetoMaza",
-        "description": "FJD-Stream plugin for NeetoMaza (xxmaza.com) - streaming hot adult web series.",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/NeetoMaza.cs3",
-        "name": "NeetoMaza"
+        "internalName": "YaowzaPlugin",
+        "description": "Yaowza extension - streaming adult hot web series and videos.",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/YaowzaPlugin.cs3",
+        "name": "YaowzaPlugin"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/refs/heads/main/FulchMulch/icon.jpg",
@@ -84,26 +85,5 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
         "name": "FulchMulch"
-    },
-    {
-        "iconUrl": "https://hitmaal.io/wp-content/uploads/2025/10/cropped-HitMaal-icon-192x192.png",
-        "fileHash": "sha256-e16407d93848d361bf147796fcc6674c5336a5c1d944e1c4cfbef054da204641",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 23054,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "BijuriyaMaza",
-        "description": "FJD-Stream plugin for BijuriyaMaza (hitmaal.io) - streaming hot adult web series.",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaza.cs3",
-        "name": "BijuriyaMaza"
     }
 ]
