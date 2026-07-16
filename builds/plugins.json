@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://kimoitv.co/kimoiTV.png",
-        "fileHash": "sha256-0c8e3c437cf442d57c091b38f3724610cd0141fb772e69d4d3621d8b84ccd20c",
+        "fileHash": "sha256-bed5a709e9bffcbe8aa06496224750c02048543b1055932503035eff458d24ec",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 40853,
+        "fileSize": 40932,
         "status": 1,
         "language": "en",
         "authors": [
@@ -16,7 +16,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "KimoiTVPlugin",
         "description": "FJD-Stream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
