@@ -44,10 +44,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/ShowBoxFJD/icon.jpg",
-        "fileHash": "sha256-c7ac8c70d3d13914fc36837b5b3bb089a9c1f133c7b0777db6c36d675c0b81c1",
+        "fileHash": "sha256-7f59e29cc670cd2fbf16726f5b2e9c63278dd7aa55c531c895ad57cc977d46ec",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 38997,
+        "fileSize": 38002,
         "status": 1,
         "language": "en",
         "authors": [
@@ -88,10 +88,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/MovieBoxFJD/icon.jpg",
-        "fileHash": "sha256-811fa4accd7ae1c961784239fd254aa3f2d754794fb6bc0b4e37cb0eb098b291",
+        "fileHash": "sha256-9d7c388b9de8feba246460c6970bb295a9c2fba7725ebf996c52e282186d5bf7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 42208,
+        "fileSize": 41327,
         "status": 1,
         "language": "en",
         "authors": [
