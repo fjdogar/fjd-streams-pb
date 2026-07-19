@@ -1,28 +1,5 @@
 [
     {
-        "iconUrl": "https://kimoitv.co/kimoiTV.png",
-        "fileHash": "sha256-b8b509a856baa7a4a242e65417bb59cde5b007ca3e12a62880f5dc6c948c08be",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 42299,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 32,
-        "internalName": "KimoiTVPlugin",
-        "description": "FJD-Stream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
-        "name": "KimoiTVPlugin"
-    },
-    {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/yaowza_icon.jpg",
         "fileHash": "sha256-b655095fc00f3728091166df3eac9fe6e8bec336dd1496566c75384236568053",
         "apiVersion": 1,
@@ -64,5 +41,49 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
         "name": "FulchMulch"
+    },
+    {
+        "iconUrl": "https://kimoitv.co/kimoiTV.png",
+        "fileHash": "sha256-b8b509a856baa7a4a242e65417bb59cde5b007ca3e12a62880f5dc6c948c08be",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 42299,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 32,
+        "internalName": "KimoiTVPlugin",
+        "description": "FJD-Stream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
+        "name": "KimoiTVPlugin"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
+        "fileHash": "sha256-8adc021a8d72a6cd3509ac59cd4dd0dc3fd57ae45108c4e4f10af631de9ac2b4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 32265,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "MovieBoxFJD",
+        "description": "MovieBox Movies & TV Series with Multi-Audio Dubs & Subtitles (MovieBoxFJD)",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/MovieBoxFJD.cs3",
+        "name": "MovieBoxFJD"
     }
 ]
