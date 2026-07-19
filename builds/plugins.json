@@ -43,6 +43,27 @@
         "name": "FulchMulch"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
+        "fileHash": "sha256-929ba03224ffea1aea5ec007a97dd534583d015f71beab2488f6944e662bab14",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 30951,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "ShowBoxFJD",
+        "description": "ShowBox Movies & TV Series Scraper Plugin (ShowBoxFJD)",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/ShowBoxFJD.cs3",
+        "name": "ShowBoxFJD"
+    },
+    {
         "iconUrl": "https://kimoitv.co/kimoiTV.png",
         "fileHash": "sha256-b8b509a856baa7a4a242e65417bb59cde5b007ca3e12a62880f5dc6c948c08be",
         "apiVersion": 1,
