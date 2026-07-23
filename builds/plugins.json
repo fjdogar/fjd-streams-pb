@@ -87,6 +87,28 @@
         "name": "KimoiTVPlugin"
     },
     {
+        "iconUrl": "https://beeg.com/favicon.ico",
+        "fileHash": "sha256-1beb9e4b5685bd2fa2a8611b7b5337eb6ccbaacf1fb9a3b214598a4d00699f18",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 22874,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "BijuriyaMaal",
+        "description": "BijuriyaMaal - Premium Movies, TV & NSFW content provider",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaal.cs3",
+        "name": "BijuriyaMaal"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/MovieBoxFJD/icon.jpg",
         "fileHash": "sha256-9d7c388b9de8feba246460c6970bb295a9c2fba7725ebf996c52e282186d5bf7",
         "apiVersion": 1,
