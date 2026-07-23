@@ -88,10 +88,10 @@
     },
     {
         "iconUrl": "https://beeg.com/favicon.ico",
-        "fileHash": "sha256-1beb9e4b5685bd2fa2a8611b7b5337eb6ccbaacf1fb9a3b214598a4d00699f18",
+        "fileHash": "sha256-1df7bfd66790b6a95b51f03e88929306dd1cd50f2a01ddf4a46a6f158fa69faf",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 22874,
+        "fileSize": 25623,
         "status": 1,
         "language": "en",
         "authors": [
@@ -102,7 +102,7 @@
             "TvSeries",
             "NSFW"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "BijuriyaMaal",
         "description": "BijuriyaMaal - Premium Movies, TV & NSFW content provider",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaal.cs3",
