@@ -1,5 +1,48 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/MovieBoxFJD/icon.jpg",
+        "fileHash": "sha256-9d7c388b9de8feba246460c6970bb295a9c2fba7725ebf996c52e282186d5bf7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 41327,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "MovieBoxFJD",
+        "description": "MovieBox Movies & TV Series with Multi-Audio Dubs & Subtitles (MovieBoxFJD)",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/MovieBoxFJD.cs3",
+        "name": "MovieBoxFJD"
+    },
+    {
+        "iconUrl": "https://beeg.com/favicon.ico",
+        "fileHash": "sha256-0db5bdfa864514b9eafb71207c8488e8b79c326e7b6fce6096ba4a5191aa71b8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 20526,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "version": 15,
+        "internalName": "BijuriyaMaal",
+        "description": "BijuriyaMaal - Premium Movies, TV & NSFW content provider",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaal.cs3",
+        "name": "BijuriyaMaal"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/yaowza_icon.jpg",
         "fileHash": "sha256-b655095fc00f3728091166df3eac9fe6e8bec336dd1496566c75384236568053",
         "apiVersion": 1,
@@ -20,27 +63,6 @@
         "description": "Yaowza extension - streaming adult hot web series and videos.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/YaowzaPlugin.cs3",
         "name": "YaowzaPlugin"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
-        "fileHash": "sha256-4a49e1762d367d99b2c524f730f0036b9631d4e57aeba5212c8bcd83769f8046",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 94248,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 37,
-        "internalName": "FulchMulch",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
-        "name": "FulchMulch"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/ShowBoxFJD/icon.jpg",
@@ -64,6 +86,27 @@
         "name": "ShowBoxFJD"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/builds/icon.jpg",
+        "fileHash": "sha256-4a49e1762d367d99b2c524f730f0036b9631d4e57aeba5212c8bcd83769f8046",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
+        "fileSize": 94248,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "fjdogar"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 37,
+        "internalName": "FulchMulch",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages (MulchFulch)",
+        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/FulchMulch.cs3",
+        "name": "FulchMulch"
+    },
+    {
         "iconUrl": "https://kimoitv.co/kimoiTV.png",
         "fileHash": "sha256-edc86800c516f28bf31cd77b5e97552e98c7db553fcb68d6aaa95a9b802df62a",
         "apiVersion": 1,
@@ -85,48 +128,5 @@
         "description": "FJD-Stream plugin for KimoiTV (kimoitv.co) - streaming TV series, movies, dramas, and anime.",
         "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/KimoiTVPlugin.cs3",
         "name": "KimoiTVPlugin"
-    },
-    {
-        "iconUrl": "https://beeg.com/favicon.ico",
-        "fileHash": "sha256-482e042bd0f380c863fb5d57a186477d686b4cf6914f1c3ed52176ca2ccaf6ad",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 20538,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "NSFW"
-        ],
-        "version": 14,
-        "internalName": "BijuriyaMaal",
-        "description": "BijuriyaMaal - Premium Movies, TV & NSFW content provider",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/BijuriyaMaal.cs3",
-        "name": "BijuriyaMaal"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/fjdogar/fjd-streams/main/MovieBoxFJD/icon.jpg",
-        "fileHash": "sha256-9d7c388b9de8feba246460c6970bb295a9c2fba7725ebf996c52e282186d5bf7",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/fjdogar/fjd-streams-pb",
-        "fileSize": 41327,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "fjdogar"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "MovieBoxFJD",
-        "description": "MovieBox Movies & TV Series with Multi-Audio Dubs & Subtitles (MovieBoxFJD)",
-        "url": "https://raw.githubusercontent.com/fjdogar/fjd-streams-pb/main/FjdStreams/MovieBoxFJD.cs3",
-        "name": "MovieBoxFJD"
     }
 ]
